@@ -1,0 +1,15 @@
+/home/vasilis/dotNetProjects/ProductManagementApp/bin/Debug/net7.0/ProductManagementApp
+/home/vasilis/dotNetProjects/ProductManagementApp/bin/Debug/net7.0/ProductManagementApp.deps.json
+/home/vasilis/dotNetProjects/ProductManagementApp/bin/Debug/net7.0/ProductManagementApp.runtimeconfig.json
+/home/vasilis/dotNetProjects/ProductManagementApp/bin/Debug/net7.0/ProductManagementApp.dll
+/home/vasilis/dotNetProjects/ProductManagementApp/bin/Debug/net7.0/ProductManagementApp.pdb
+/home/vasilis/dotNetProjects/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.csproj.AssemblyReference.cache
+/home/vasilis/dotNetProjects/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/vasilis/dotNetProjects/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.AssemblyInfoInputs.cache
+/home/vasilis/dotNetProjects/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.AssemblyInfo.cs
+/home/vasilis/dotNetProjects/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.csproj.CoreCompileInputs.cache
+/home/vasilis/dotNetProjects/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.dll
+/home/vasilis/dotNetProjects/ProductManagementApp/obj/Debug/net7.0/refint/ProductManagementApp.dll
+/home/vasilis/dotNetProjects/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.pdb
+/home/vasilis/dotNetProjects/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.genruntimeconfig.cache
+/home/vasilis/dotNetProjects/ProductManagementApp/obj/Debug/net7.0/ref/ProductManagementApp.dll
